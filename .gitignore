@@ -173,3 +173,5 @@ cython_debug/
 
 # VS Code items
 *.Zone.Identifier
+.Zone.Identifier
+Zone.Identifier
