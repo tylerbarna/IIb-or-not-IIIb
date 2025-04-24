@@ -173,3 +173,6 @@ cython_debug/
 
 # VS Code items
 *.Identifier
+
+# Misc
+lcs_bulla_2019/
