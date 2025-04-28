@@ -176,3 +176,6 @@ cython_debug/
 
 # Misc
 lcs_bulla_2019/
+gaussian_process_example copy.ipynb
+gp_bulla_2019.csv
+gaussian_processing_dirty.ipynb
