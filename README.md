@@ -1,3 +1,3 @@
 This is a repository containing a copy of the imposter data used for the "IIb or not IIb" paper (Barna et al. 2025). We encourage readers to experiment with this data to identify potential methods of discriminating between imposters and kilonovae. The primary data products are in the form of csv files, with the two main ones being 
 [the imposter lightcurves](https://github.com/tylerbarna/IIb-or-not-IIIb/blob/main/imposter_gp_lightcurves_downsample.csv) and the [grid lightcurves](https://github.com/tylerbarna/IIb-or-not-IIIb/blob/main/bulla_2019.csv). There are also csv files for the rate calculations used in the paper, and there are a handful of 
-Jupyter notebooks documenting how to work with the data as provided.
+Jupyter notebooks documenting how to work with the data as provided. This includes documentation on using the pre-trained gaussian process kernel, which is included in this repository as a pkl file.
